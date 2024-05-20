@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34902.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abra_test", "abra_test.csproj", "{07ECB2F0-0F15-422F-A158-8C664D0950CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07ECB2F0-0F15-422F-A158-8C664D0950CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07ECB2F0-0F15-422F-A158-8C664D0950CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07ECB2F0-0F15-422F-A158-8C664D0950CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07ECB2F0-0F15-422F-A158-8C664D0950CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BC42A26-2625-4B02-94E6-8BC1F4A933AB}
+	EndGlobalSection
+EndGlobal
